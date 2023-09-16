@@ -1,5 +1,13 @@
 # PhD Researcher in Explainable AI and Adversarial Robustness
 
+## Useful Links
+* [Curriculum Vitae](<a href="https://github.com/AlexanderPaulStevens/portfolio/blob/main/assets/_CurriculumVitae.pdf" target="_blank">Open CV (PDF)</a>)
+* [GitPage](https://alexanderpaulstevens.github.io/)
+* [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
+* [GitHub](https://github.com/AlexanderPaulStevens)
+* [Google Scholar](https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/alexander-stevens-354b41183/)
+
 ## Experience
 * **Visiting Researcher** (Aug. 2023--Today)
   - School of Information Systems, QUT, Australia
@@ -56,15 +64,6 @@
   - Dutch: ⬤⬤⬤⬤⬤
   - English: ⬤⬤⬤⬤
   - French: ⬤⬤⬤
-
-
-## Useful Links
-* [Curriculum Vitae](<a href="https://github.com/AlexanderPaulStevens/portfolio/blob/main/assets/_CurriculumVitae.pdf" target="_blank">PDF.</a>)
-* [GitPage](https://alexanderpaulstevens.github.io/)
-* [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
-* [GitHub](https://github.com/AlexanderPaulStevens)
-* [Google Scholar](https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en)
-* [LinkedIn](https://www.linkedin.com/in/alexander-stevens-354b41183/)
 
 ## Supervisor
 * **Master Theses:** Successfully supervised a total of 13 master thesis groups (2-3 persons) for Master of Information Management (7), Master of Business and Information Systems Engineering (4), and Master of Business Engineering (2). Topics of interest: Fairness, Bias Mitigation, Explainability, Robotic Process Automation, Topic Modeling.
