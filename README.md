@@ -57,8 +57,9 @@
   - English: ⬤⬤⬤⬤
   - French: ⬤⬤⬤
 
+
 ## Useful Links
-* [Curriculum Vitae](<a href="username.github.io/assets/_CurriculumVitae.pdf" target="_blank">PDF.</a>)
+* [Curriculum Vitae](<a href="https://github.com/AlexanderPaulStevens/portfolio/blob/main/assets/_CurriculumVitae.pdf" target="_blank">PDF.</a>)
 * [GitPage](https://alexanderpaulstevens.github.io/)
 * [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
 * [GitHub](https://github.com/AlexanderPaulStevens)
