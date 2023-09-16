@@ -71,19 +71,19 @@
 * **Supervisor of Best Thesis Award (2)** in Master of Business and Information Systems Engineering (1) and Master of Information Management (1).
 
 ## Reviewer
-* **2023:** 
-### conferences
+### **2023:** 
+#### conferences
 - International Conference on Business Process Management (BPM)
 - Conference on Advanced Information Systems Engineering (CAiSE)
-### journals
+#### journals
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
 - IEEE Transactions on Services Computing (TSC), International Conference on Cooperative Information Systems (CoopIS)
 - Decision Support Systems (DSS)
-* **2022:** 
-### conferences
+### **2022:** 
+#### conferences
 - International Conference on Process Mining (ICPM)
-* **2021:** 
-### conferences
+### **2021:** 
+#### conferences
 - International Conference on Process Mining (ICPM)
 
 * **Topics of interest:** Privacy, Anomaly Detection, Deep Learning, Explainability, Predictive Process Monitoring, Feature Selection Methods
