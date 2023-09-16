@@ -3,7 +3,7 @@ description: Enthusiastic and Motivation PhD Researcher in Explainable AI and Ad
 github_username: AlexanderPaulStevens
 email: alexander.stevens@kuleuven.be
 logo: /assets/picture - circle.png
-theme: jekyll-theme-minimal
+theme: jekyll/minima
 
 minima:
   social_links:
