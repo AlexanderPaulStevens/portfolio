@@ -1,2 +1,7 @@
-# portfolio
-My portfolio for academic purposes.
+# PhD Researcher
+
+## Education
+
+## Work Experience
+
+## Projects
