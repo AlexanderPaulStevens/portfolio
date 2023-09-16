@@ -75,17 +75,29 @@
 * **Topics of interest:** Privacy, Anomaly Detection, Deep Learning, Explainability in Predictive Process Monitoring
 
 ## Peer-Reviewed Publications
-* **2023:** [Manifold Learning to Improve Robustness and Generalization in Process Outcome Prediction](https://bpm2023.sites.uu.nl/) (Accepted for Publication)
-* **2023:** [Does the Case Matter? Process Predictions Balancing Log and Trace Information with Co-attention](https://bpm2023.sites.uu.nl/) (In Submission)
-* **2023:** [Evaluating Text Classification: A Benchmark Study](https://www.sciencedirect.com/journal/expert-systems-with-applications) (In Submission)
-* **2023:** [Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) (Accepted for Publication)
-* **2023:** [Outcome-Oriented Predictive Process Monitoring on Positive and Unlabeled Event Logs](http://ml4pm2022.di.unimi.it/preproceedings/ICPM_2022_paper_156-2.pdf) (Accepted)
-* **2022:** [Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks](https://icpmconference.org/2022/) 
-* **2022:** [Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring](https://www.researchgate.net/profile/Alexander-Stevens-6/publication/355184115_Quantifying_Explainability_in_Outcome-Oriented_Predictive_Process_Monitoring/links/616543a01eb5da761e83e8da/Quantifying-Explainability-in-Outcome-Oriented-Predictive-Process-Monitoring.pdf) 
-* **2020:** [Explainability and Fairness in Machine Learning: Improve Fair End-to-end Lending for Kiva](https://ieeexplore.ieee.org/abstract/document/9308371)
-  
-## Extended Abstracts
-* **2023:** [Manifold Learning in Predictive Process Monitoring](https://bpm2023.sites.uu.nl/) (Published)
-* **2023:** [Evaluating Text Classification: A Benchmark Study](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (Published)
-* **2023:** [Evaluating Text Classification: A Benchmark Study](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (Published)
+
+* **[9]** [Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research.](https://arxiv.org/pdf/2203.16073.pdf)
+2023
+
+* **[9]** [Stevens, A. Peeperkorn, J. De Smedt, J., De Weerdt, J., Manifold Learning to Improve Robustness and Generalization in Process Outcome Prediction. International Conference on Process Mining.](https://www.researchgate.net/profile/Alexander-Stevens-6/publication/372788094_Manifold_Learning_for_Adversarial_Robustness_in_Predictive_Process_Monitoring/links/64c8c86c4ce9131cd57d165b/Manifold-Learning-for-Adversarial-Robustness-in-Predictive-Process-Monitoring.pdf)
+2023
+
+* **[9]** [Stevens, A., De Smedt, J., Peeperkorn, J. and De Weerdt, J., 2022. Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks. International Conference on Process Mining.](https://www.researchgate.net/profile/Alexander-Stevens-6/publication/372788094_Manifold_Learning_for_Adversarial_Robustness_in_Predictive_Process_Monitoring/links/64c8c86c4ce9131cd57d165b/Manifold-Learning-for-Adversarial-Robustness-in-Predictive-Process-Monitoring.pdf)
+2023
+
+* **[9]** [Peeperkorn, J., Vázquez, C.O., Stevens, A., De Smedt, J., vanden Broucke, S. and De Weerdt, J., Outcome-Oriented Predictive Process Monitoring on Positive and Unlabelled Event Logs. International Conference on Process Mining.](https://www.researchgate.net/profile/Alexander-Stevens-6/publication/372788094_Manifold_Learning_for_Adversarial_Robustness_in_Predictive_Process_Monitoring/links/64c8c86c4ce9131cd57d165b/Manifold-Learning-for-Adversarial-Robustness-in-Predictive-Process-Monitoring.pdf)
+2023
+
+* **[9]** [Stevens, A., De Smedt, J. and Peeperkorn, J., 2022. Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring. International Conference on Process Mining.](https://www.researchgate.net/profile/Alexander-Stevens-6/publication/372788094_Manifold_Learning_for_Adversarial_Robustness_in_Predictive_Process_Monitoring/links/64c8c86c4ce9131cd57d165b/Manifold-Learning-for-Adversarial-Robustness-in-Predictive-Process-Monitoring.pdf)
+2023
+
+* **[9]** [Stevens, A., Deruyck, P., Van Veldhoven, Z. and Vanthienen, J., 2020, December. Explainability and Fairness in Machine Learning: Improve Fair End-to-end Lending for Kiva. IEEE Symposium Series on Computational Intelligence (SSCI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308371)
+2023
+
+
+## Accepted Abstracts
+
+* **[3]** [ Stevens, A. Peeperkorn, J. De Smedt, J., De Weerdt, J., 2023. Manifold Learning in Predictive Process Monitoring. Belgian Operational Research Society.](https://www.orbel.be/orbel37/ORBEL_37_Booklet_final_160523.pdf#page=153) (Published)
+* **2023:** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., Evaluating Text Classification: A Benchmark Study, Conference of the International Federation of Operational Research Societies](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4088650&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4088650&offset=0) (Published)
+* **2023:** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., Belgian Operational Research Society.](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4088650&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4088650&offset=0) (Published)
 
