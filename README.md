@@ -1,7 +1,7 @@
 # PhD Researcher in Explainable AI and Adversarial Robustness
 
 ## Useful Links
-* [Curriculum Vitae](<a href="https://github.com/AlexanderPaulStevens/portfolio/blob/main/assets/_CurriculumVitae.pdf" target="_blank">Open CV (PDF)</a>)
+* [Curriculum Vitae](https://drive.google.com/file/d/1GXfAFF1MDXbQ3RagR33NTTmalpbf6T1n/view?usp=drive_link")
 * [GitPage](https://alexanderpaulstevens.github.io/)
 * [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
 * [GitHub](https://github.com/AlexanderPaulStevens)
