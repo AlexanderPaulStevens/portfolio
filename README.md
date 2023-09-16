@@ -1,13 +1,5 @@
 # PhD Researcher in Explainable AI and Adversarial Robustness
 
-## Useful Links
-* [Curriculum Vitae](https://drive.google.com/file/d/1GXfAFF1MDXbQ3RagR33NTTmalpbf6T1n/view?usp=drive_link")
-* [GitPage](https://alexanderpaulstevens.github.io/)
-* [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
-* [GitHub](https://github.com/AlexanderPaulStevens)
-* [Google Scholar](https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en)
-* [LinkedIn](https://www.linkedin.com/in/alexander-stevens-354b41183/)
-
 ## Experience
 * **Visiting Researcher** (Aug. 2023--Today)
   - School of Information Systems, QUT, Australia
@@ -56,8 +48,16 @@
 * **Innovation and Social Entrepreneurship** (Sep. 2016--Dec. 2016)
   - I'ÉSEG, France (14/20)
   - Academic course (in French)
+
+## Useful Links
+* [Curriculum Vitae](https://drive.google.com/file/d/1GXfAFF1MDXbQ3RagR33NTTmalpbf6T1n/view?usp=drive_link")
+* [GitPage](https://alexanderpaulstevens.github.io/)
+* [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
+* [GitHub](https://github.com/AlexanderPaulStevens)
+* [Google Scholar](https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/alexander-stevens-354b41183/)
  
-  ## Competences
+## Competences
 * **Coding Languages:** Python, R, LaTeX, MATLAB
 * **NVIDIA:** Fundamentals of Accelerated Data Science
 * **DataCamp Certificates:** Bayesian Data Analysis, Network Analysis, Image Processing, Deep Learning, Cleaning Data, Linear Modeling
