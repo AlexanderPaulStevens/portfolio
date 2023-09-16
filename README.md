@@ -1,4 +1,4 @@
-# PhD Researcher
+# PhD Researcher in Explainable AI and Adversarial Robustness
 
 ## Experience
 * **Visiting Researcher** (Aug. 2023--Today)
