@@ -64,16 +64,27 @@
 * [Google Scholar](https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/alexander-stevens-354b41183/)
 
-## Teaching
-* **Supervising:** Successfully supervised a total of 12 master thesis groups (2-3 persons) for Master of Information Management (6), Master of Business and Information Systems Engineering (4), and Master of Business Engineering (2). Topics of interest: Fairness, Bias Mitigation, Explainability, Robotic Process Automation, Topic Modeling.
-* **Supervised the Best Thesis Award** in Master of Business and Information Systems Engineering (1) and Master of Information Management (1).
-* **Teaching Assistant:** Practice session about Network Analysis and Graphs in Python
+## Supervisor
+* **Master Theses:** Successfully supervised a total of 13 master thesis groups (2-3 persons) for Master of Information Management (7), Master of Business and Information Systems Engineering (4), and Master of Business Engineering (2). Topics of interest: Fairness, Bias Mitigation, Explainability, Robotic Process Automation, Topic Modeling.
+* **Supervisor of Best Thesis Award (2)** in Master of Business and Information Systems Engineering (1) and Master of Information Management (1).
 
 ## Reviewer
-* **2023:** International Conference on Business Process Management (BPM), the Conference on Advanced Information Systems Engineering (CAiSE), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Services Computing (TSC), International Conference on Cooperative Information Systems (CoopIS)
-* **2022:** International Conference on Process Mining (ICPM)
-* **2021:** International Conference on Process Mining (ICPM)
-* **Topics of interest:** Privacy, Anomaly Detection, Deep Learning, Explainability in Predictive Process Monitoring
+* **2023:** 
+### conferences
+- International Conference on Business Process Management (BPM)
+- Conference on Advanced Information Systems Engineering (CAiSE)
+### journals
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+- IEEE Transactions on Services Computing (TSC), International Conference on Cooperative Information Systems (CoopIS)
+- Decision Support Systems (DSS)
+* **2022:** 
+### conferences
+- International Conference on Process Mining (ICPM)
+* **2021:** 
+### conferences
+- International Conference on Process Mining (ICPM)
+
+* **Topics of interest:** Privacy, Anomaly Detection, Deep Learning, Explainability, Predictive Process Monitoring, Feature Selection Methods
 
 ## Publications
 
