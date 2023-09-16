@@ -31,9 +31,10 @@
   - Technical support by Pieter Joosen and Kurt Janssens
   - Under the supervision of Ziboud Van Veldhoven and Prof. Dr. Jan Vanthienen
 
-* **Data Analyst** (Jan. 2020--Mar. 2020)
+* **Data Analyst (Student)** (Jan. 2020--Mar. 2020)
   - Datalab Team, TVH, Belgium
-  - Creation of a Data Science Tutorial in Python
+  - Customer similarity research
+  - In parallel with studies (2 days per week)
 
 ## Education
 * **Ph.D. Student in Business Economics** (2020--Today)
