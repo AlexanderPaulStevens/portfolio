@@ -50,8 +50,8 @@
   - Academic course (in French)
 
 ## Useful Links
+* [Blogpost with information about research](https://alexanderpaulstevens.github.io/)
 * [Curriculum Vitae](https://drive.google.com/file/d/1GXfAFF1MDXbQ3RagR33NTTmalpbf6T1n/view?usp=drive_link")
-* [GitPage](https://alexanderpaulstevens.github.io/)
 * [Portfolio](https://alexanderpaulstevens.github.io/portfolio)
 * [GitHub](https://github.com/AlexanderPaulStevens)
 * [Google Scholar](https://scholar.google.be/citations?user=fNeFT5EAAAAJ&hl=en)
