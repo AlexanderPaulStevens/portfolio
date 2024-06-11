@@ -88,7 +88,7 @@
 
 * **Topics of interest:** Privacy, Anomaly Detection, Deep Learning, Explainability, Predictive Process Monitoring, Feature Selection Methods
 ## Guest Speaker
-### **2024:##
+### **2024:** 
 Explainable AI in Practice (KULAK) - more information soon
 ## Publications
 
