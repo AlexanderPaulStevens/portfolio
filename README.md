@@ -87,7 +87,9 @@
 - International Conference on Process Mining (ICPM)
 
 * **Topics of interest:** Privacy, Anomaly Detection, Deep Learning, Explainability, Predictive Process Monitoring, Feature Selection Methods
-
+## Guest Speaker
+### **2024:##
+Explainable AI in Practice (KULAK) - more information soon
 ## Publications
 
 ### Peer-reviewed Conferences and Journals
@@ -120,6 +122,8 @@
 2023
 
 ### Accepted Abstracts
+
+ELA Triangle? 
 * **[3]** [Robustness Evaluation Framework for Adversarial Examples and Training of Business Processes. Leuven AI - Science of AI](https://ai.kuleuven.be/events/leuven-ai-scientific-workshop-2024) (Presented)
 
 * **[2]** [Leveraging Manifold Learning for Constrained Counterfactual Explanations in Process Outcome Prediction. European Conference
