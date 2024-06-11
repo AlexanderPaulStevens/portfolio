@@ -120,10 +120,10 @@
 2023
 
 ### Accepted Abstracts
-* **[3]** [ Robustness Evaluation Framework for Adversarial Examples and Training of Business Processes. Leuven AI - Science of AI](https://ai.kuleuven.be/events/leuven-ai-scientific-workshop-2024) (Presented)
+* **[3]** [Robustness Evaluation Framework for Adversarial Examples and Training of Business Processes. Leuven AI - Science of AI](https://ai.kuleuven.be/events/leuven-ai-scientific-workshop-2024) (Presented)
 
 * **[2]** [Leveraging Manifold Learning for Constrained Counterfactual Explanations in Process Outcome Prediction. European Conference
-on Operational Research.](https://euro2024cph.dk/](https://euro2024cph.dk/programme/conference-program) (Published)
+on Operational Research.](https://euro2024cph.dk/programme/conference-program) (Published)
 
 * **[1]** [Manifold Learning in Predictive Process Monitoring. Belgian Operational Research Society.](https://www.orbel.be/orbel37/ORBEL_37_Booklet_final_160523.pdf#page=153) (Published)
 
