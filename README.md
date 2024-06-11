@@ -92,6 +92,15 @@
 
 ### Peer-reviewed Conferences and Journals
 
+
+
+
+* **[11]** [Stevens, A., Ouyang, C., De Smedt, J., Moreira, C. Generating Feasible and Plausible Counterfactual Explanations for Outcome Prediction of Business Processes. IEEE Transactions on Services Computing (In Review).]([https://arxiv.org/pdf/2203.16073.pdf](https://arxiv.org/abs/2403.09232))
+2023
+
+* **[10]** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., Vanden Broucke, S., Baesens, B. Evaluating Text Classification: A Benchmark Study . Expert Systems with Applications.]([https://arxiv.org/pdf/2203.16073.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680))
+2023
+
 * **[9]** [Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research.](https://arxiv.org/pdf/2203.16073.pdf)
 2023
 
@@ -110,12 +119,12 @@
 * **[4]** [Stevens, A., Deruyck, P., Van Veldhoven, Z. and Vanthienen, J., 2020, December. Explainability and Fairness in Machine Learning: Improve Fair End-to-end Lending for Kiva. IEEE Symposium Series on Computational Intelligence (SSCI)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9308371)
 2023
 
-
 ### Accepted Abstracts
+* **[3]** [ Robustness Evaluation Framework for Adversarial Examples and Training of Business Processes. Leuven AI - Science of AI](https://ai.kuleuven.be/events/leuven-ai-scientific-workshop-2024) (Presented)
 
-* **[3]** [ Stevens, A. Peeperkorn, J. De Smedt, J., De Weerdt, J., 2023. Manifold Learning in Predictive Process Monitoring. Belgian Operational Research Society.](https://www.orbel.be/orbel37/ORBEL_37_Booklet_final_160523.pdf#page=153) (Published)
+* **[2]** [Leveraging Manifold Learning for Constrained Counterfactual Explanations in Process Outcome Prediction. European Conference
+on Operational Research.]([https://www.orbel.be/orbel37/ORBEL_37_Booklet_final_160523.pdf#page=153](https://euro2024cph.dk/)) (Published)
 
-* **[2]** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., Evaluating Text Classification: A Benchmark Study, Conference of the International Federation of Operational Research Societies](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4088650&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4088650&offset=0) (Published)
+* **[1]** [Manifold Learning in Predictive Process Monitoring. Belgian Operational Research Society.](https://www.orbel.be/orbel37/ORBEL_37_Booklet_final_160523.pdf#page=153) (Published)
 
-* **[1]** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., Belgian Operational Research Society.](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4088650&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4088650&offset=0) (Published)
 
