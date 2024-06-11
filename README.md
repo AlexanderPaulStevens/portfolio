@@ -95,10 +95,10 @@
 
 
 
-* **[11]** [Stevens, A., Ouyang, C., De Smedt, J., Moreira, C. Generating Feasible and Plausible Counterfactual Explanations for Outcome Prediction of Business Processes. IEEE Transactions on Services Computing (In Review).]([https://arxiv.org/pdf/2203.16073.pdf](https://arxiv.org/abs/2403.09232))
+* **[11]** [Stevens, A., Ouyang, C., De Smedt, J., Moreira, C. Generating Feasible and Plausible Counterfactual Explanations for Outcome Prediction of Business Processes. IEEE Transactions on Services Computing (In Review).](https://arxiv.org/abs/2403.09232)
 2023
 
-* **[10]** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., Vanden Broucke, S., Baesens, B. Evaluating Text Classification: A Benchmark Study . Expert Systems with Applications.]([https://arxiv.org/pdf/2203.16073.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680))
+* **[10]** [Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., Vanden Broucke, S., Baesens, B. Evaluating Text Classification: A Benchmark Study . Expert Systems with Applications.](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680)
 2023
 
 * **[9]** [Stevens, A., De Smedt, J., Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models. European Journal on Operational Research.](https://arxiv.org/pdf/2203.16073.pdf)
@@ -123,7 +123,7 @@
 * **[3]** [ Robustness Evaluation Framework for Adversarial Examples and Training of Business Processes. Leuven AI - Science of AI](https://ai.kuleuven.be/events/leuven-ai-scientific-workshop-2024) (Presented)
 
 * **[2]** [Leveraging Manifold Learning for Constrained Counterfactual Explanations in Process Outcome Prediction. European Conference
-on Operational Research.](https://euro2024cph.dk/](https://euro2024cph.dk/programme/conference-program)) (Published)
+on Operational Research.](https://euro2024cph.dk/](https://euro2024cph.dk/programme/conference-program) (Published)
 
 * **[1]** [Manifold Learning in Predictive Process Monitoring. Belgian Operational Research Society.](https://www.orbel.be/orbel37/ORBEL_37_Booklet_final_160523.pdf#page=153) (Published)
 
