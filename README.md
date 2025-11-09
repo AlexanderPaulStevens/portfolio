@@ -50,15 +50,18 @@
 
 ### Doctor of Philosophy (PhD)
 **KU Leuven** | *12 October 2020 - 23 December 2024*
+- Grade: 78.33%
 - PhD booklet: [Trustworthy Artificial Intelligence for Business Process Analytics](https://drive.google.com/file/d/1WDpihsP3pon49CrsXoSGizYy569bjMoV/view?usp=sharing)
 
 ### Master of Business Engineering
 **KU Leuven** | *3 September 2018 - 26 June 2020*
+- Grade: 74.46%
 - Majored in [Data Analytics and Business Applications](https://onderwijsaanbod.kuleuven.be/2023/opleidingen/e/SC_53419709.htm)
 - Exchange semester at the Sophia Antipolis campus (Nice, France)
 
 ### Bachelor of Business Engineering
 **KU Leuven** | *26 September 2015 - 28 September 2018*
+- Grade: 64.03%
 - Exchange course at IÉSEG School of Management (Lille, France)
 
 ## Skills & Expertise
@@ -68,7 +71,7 @@
 - **Consulting & Communication:** Problem scoping, stakeholder alignment, translating AI insights to strategic value.
 - **Languages:**
   - Dutch (Native): ⬤⬤⬤⬤⬤
-  - English (Fluent/Professional): ⬤⬤⬤⬤⬤
+  - English (Fluent/Professional): ⬤⬤⬤⬤
   - French (Proficient): ⬤⬤⬤
 
 ## Projects & Certifications
@@ -82,29 +85,35 @@
 - 6 Introductory Data Science Courses (DataCamp)
 - Post-graduate course: [Trustworthy and Explainable Artificial Intelligence](https://www.ugain.ugent.be/opleidingen/aanbod/AI2022/AI2022.pdf)
 
-## Publications (Selection of 11)
+## Publications (Selection of 12)
 
 ### Journal Publications
 
-**[1]** Stevens, A., Ouyang, C., De Smedt, J., Moreira, C. *Plausible and Feasible Counterfactuals for Predictive Process Monitoring*. IEEE Transactions on Services Computing. 2025.
+**[1]** He, Z., **Stevens, A.**, Ouyang, C., De Smedt, J., Barros, A. J., Moreira, C., *Crafting Imperceptible On-Manifold Adversarial Attacks for Tabular Data*. Applied Soft Computing. 2025. (In review)
 
-**[2]** Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., [*Evaluating Text Classification: A Benchmark Study*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680). Expert Systems with Applications. 2024.
+**[2]** **Stevens, A.**, De Smedt, J., Peeperkorn, J., De Weerdt, J., [*Realistic Adversarial Examples for Business Processes using Variational Autoencoders*](https://arxiv.org/pdf/2411.14263). ACM Transactions on Knowledge Discovery from Data. 2025. (In review)
 
-**[3]** Stevens, A., De Smedt, J., [*Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models*](https://www.sciencedirect.com/science/article/pii/S0377221723007117). European Journal on Operational Research. 2023.
+**[3]** Van Wallendael, L., Vanneste, L., Zhang, Y., **Stevens, A.**, De Smedt, J., *Mitigating downside risk: ESG Integration in Portfolio Construction with Stock Preselection Using Machine Learning and Mean-CVaR Optimization*. Journal of International Financial Markets, Institutions & Money. 2025. (In review)
 
-**[4]** Bertrand, Y., Stevens, A., Deforce, B., De Smedt, J., De Weerdt, J., Serral, E. *Approaches for IoT-enhanced Predictive Process Monitoring*. Process Science. 2024.
+**[4]** **Stevens, A.**, Ouyang, C., De Smedt, J., Moreira, C., *Plausible and Feasible Counterfactuals for Predictive Process Monitoring*. IEEE Transactions on Services Computing. 2025.
+
+**[5]** Bertrand, Y., **Stevens, A.**, Deforce, B., De Smedt, J., De Weerdt, J., Serral, E., *Approaches for IoT-enhanced Predictive Process Monitoring*. Process Science. 2024.
+
+**[6]** Reusens, M., **Stevens, A.**, Tonglet, J., De Smedt, J., Verbeke, W., vanden Broucke, S., Baesens, B., [*Evaluating Text Classification: A Benchmark Study*](https://www.sciencedirect.com/science/article/abs/pii/S0957417424011680). Expert Systems with Applications. 2024.
+
+**[7]** **Stevens, A.**, De Smedt, J., [*Explainability in Process Outcome Prediction: Guidelines to Obtain Interpretable and Faithful Models*](https://www.sciencedirect.com/science/article/pii/S0377221723007117). European Journal on Operational Research. 2023.
 
 ### Conference Publications
 
-**[1]** Stevens, A., Peeperkorn, J., De Smedt, J., De Weerdt, J., [*Manifold Learning for Adversarial Robustness in Predictive Process Monitoring*](https://ieeexplore.ieee.org/abstract/document/10271991). International Conference on Process Mining. 2023.
+**[1]** **Stevens, A.**, Peeperkorn, J., De Smedt, J., De Weerdt, J., [*Manifold Learning for Adversarial Robustness in Predictive Process Monitoring*](https://ieeexplore.ieee.org/abstract/document/10271991). International Conference on Process Mining. 2023.
 
-**[2]** Stevens, A., De Smedt, J., Peeperkorn, J., De Weerdt, J., [*Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks*](https://ieeexplore.ieee.org/abstract/document/9980753). International Conference on Process Mining. 2022.
+**[2]** **Stevens, A.**, De Smedt, J., Peeperkorn, J., De Weerdt, J., [*Assessing the Robustness in Predictive Process Monitoring through Adversarial Attacks*](https://ieeexplore.ieee.org/abstract/document/9980753). International Conference on Process Mining. 2022.
 
-**[3]** Peeperkorn, J., Vázquez, C.O., Stevens, A., De Smedt, J., vanden Broucke, S., De Weerdt, J., [*Outcome-Oriented Predictive Process Monitoring on Positive and Unlabelled Event Logs*](https://link.springer.com/chapter/10.1007/978-3-031-27815-0_19). Machine Learning for Process Mining. 2023.
+**[3]** Peeperkorn, J., Vázquez, C.O., **Stevens, A.**, De Smedt, J., vanden Broucke, S., De Weerdt, J., [*Outcome-Oriented Predictive Process Monitoring on Positive and Unlabelled Event Logs*](https://link.springer.com/chapter/10.1007/978-3-031-27815-0_19). Machine Learning for Process Mining. 2023.
 
-**[4]** Stevens, A., De Smedt, J., Peeperkorn, J., [*Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring*](https://link.springer.com/chapter/10.1007/978-3-030-98581-3_15). Machine Learning for Process Mining. 2023.
+**[4]** **Stevens, A.**, De Smedt, J., Peeperkorn, J., [*Quantifying Explainability in Outcome-Oriented Predictive Process Monitoring*](https://link.springer.com/chapter/10.1007/978-3-030-98581-3_15). Machine Learning for Process Mining. 2023.
 
-**[5]** Stevens, A., Deruyck, P., Van Veldhoven, Z., Vanthienen, J., [*Explainability and Fairness in Machine Learning: Improve Fair End-to-end Lending for Kiva*](https://ieeexplore.ieee.org/abstract/document/9308371). IEEE Symposium Series on Computational Intelligence (SSCI). 2020.
+**[5]** **Stevens, A.**, Deruyck, P., Van Veldhoven, Z., Vanthienen, J., [*Explainability and Fairness in Machine Learning: Improve Fair End-to-end Lending for Kiva*](https://ieeexplore.ieee.org/abstract/document/9308371). IEEE Symposium Series on Computational Intelligence (SSCI). 2020.
 
 ## Academic Service
 
