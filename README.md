@@ -38,7 +38,7 @@
 - Developed a Python data science tutorial on descriptive analytics and advanced multivariate statistics.
 
 ### Master Thesis Intern
-**Brainjar, Belgium** | *2 September 2019 - 27 March 2020*
+**Brainjar, Belgium** | *23 September 2019 - 27 March 2020*
 - **Publication:** [Explainability and Fairness in Machine Learning: Improve Fair End-to-end lending for Kiva](https://ieeexplore.ieee.org/abstract/document/9308371)
 - Mitigated gender bias in Kiva's lending recommendations, increasing overall fairness by 39.97% across six key metrics.
 
