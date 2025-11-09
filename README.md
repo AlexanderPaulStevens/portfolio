@@ -17,48 +17,48 @@
 ## Work Experience
 
 ### Machine Learning Engineer
-**ML6, Belgium** | *April 2025 - Present*
+**ML6, Belgium** | *31 March 2025 - Present*
 - Scoped and implemented end-to-end agentic AI workflows into real-world financial data pipelines.
 - Automated financial calculations using generative AI, reducing manual processing time from months to minutes.
 
 ### Researcher
-**KU Leuven, Belgium** | *Oct 2020 - Present*
+**KU Leuven, Belgium** | *12 October 2020 - 28 February 2025*
 - Designed explainable ML methods increasing the trust and adoption of AI-based decision systems in business settings.
 - Led 17 MSc data science projects (2-3 students, two award-winning teams), both academic and industry collaborations.
 - Published 11 peer-reviewed papers including top-tier venues (IEEE TSC, EJOR, ESWA, ICPM).
 - Presented at invited talks and lectures on ethical and explainable AI to academic and corporate audiences.
 
 ### Visiting Researcher
-**Queensland University of Technology, Australia** | *Aug 2023 - Dec 2023*
+**Queensland University of Technology, Australia** | *21 August 2023 - 22 December 2023*
 - Developed counterfactual models for ICU admission prediction, enabling clinicians to identify patient risk factors.
 - Collaboration with [Prof. Chun Ouyang](https://scholar.google.be/citations?user=aQqD_CQAAAAJ&hl=en&oi=ao) and [Prof. Catarina Moreira](https://scholar.google.be/citations?user=nThsEsMAAAAJ&hl=en&oi=ao)
 
 ### Research Assistant
-**KU Leuven, Belgium** | *June 2020 - Oct 2020*
+**KU Leuven, Belgium** | *1 June 2020 - 9 October 2020*
 - Developed a Python data science tutorial on descriptive analytics and advanced multivariate statistics.
 
 ### Master Thesis Intern
-**Brainjar, Belgium** | *Sep 2019 - March 2020*
+**Brainjar, Belgium** | *2 September 2019 - 27 March 2020*
 - **Publication:** [Explainability and Fairness in Machine Learning: Improve Fair End-to-end lending for Kiva](https://ieeexplore.ieee.org/abstract/document/9308371)
 - Mitigated gender bias in Kiva's lending recommendations, increasing overall fairness by 39.97% across six key metrics.
 
 ### Data Analyst Intern
-**TVH, Belgium** | *Jan 2020 - March 2020*
+**TVH, Belgium** | *6 January 2020 - 27 March 2020*
 - Built customer segmentation models to identify the top 10% of high-value clients, enabling targeted sales strategies.
 
 ## Education
 
 ### Doctor of Philosophy (PhD)
-**KU Leuven** | *Oct 2020 - Dec 2024*
+**KU Leuven** | *12 October 2020 - 23 December 2024*
 - PhD booklet: [Trustworthy Artificial Intelligence for Business Process Analytics](https://drive.google.com/file/d/1WDpihsP3pon49CrsXoSGizYy569bjMoV/view?usp=sharing)
 
 ### Master of Business Engineering
-**KU Leuven** | *Sept 2018 - June 2020*
+**KU Leuven** | *3 September 2018 - 26 June 2020*
 - Majored in [Data Analytics and Business Applications](https://onderwijsaanbod.kuleuven.be/2023/opleidingen/e/SC_53419709.htm)
 - Exchange semester at the Sophia Antipolis campus (Nice, France)
 
 ### Bachelor of Business Engineering
-**KU Leuven** | *Sept 2015 - Sept 2018*
+**KU Leuven** | *26 September 2015 - 28 September 2018*
 - Exchange course at IÉSEG School of Management (Lille, France)
 
 ## Skills & Expertise
